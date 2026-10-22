@@ -1,0 +1,122 @@
+{
+  "comparisons": [
+    {
+      "mu": [
+        3,
+        2,
+        1
+      ],
+      "w": 6,
+      "hook_lengths": [
+        5,
+        3,
+        1,
+        3,
+        1,
+        1
+      ],
+      "old_bivariate_z_degree_bound": 25,
+      "new_bivariate_z_degree_bound": 15,
+      "old_pure_z_degree": 22,
+      "new_pure_z_degree": 12,
+      "old_fixed_weight_period_bound": 60,
+      "new_fixed_weight_period_bound": 15,
+      "old_divisible_by_new_exactly": true,
+      "quotient_degree": 10,
+      "expected_values_verified": true
+    },
+    {
+      "mu": [
+        4,
+        2,
+        1
+      ],
+      "w": 7,
+      "hook_lengths": [
+        6,
+        4,
+        2,
+        1,
+        3,
+        1,
+        1
+      ],
+      "old_bivariate_z_degree_bound": 60,
+      "new_bivariate_z_degree_bound": 38,
+      "old_pure_z_degree": 56,
+      "new_pure_z_degree": 34,
+      "old_fixed_weight_period_bound": 840,
+      "new_fixed_weight_period_bound": 24,
+      "old_divisible_by_new_exactly": true,
+      "quotient_degree": 22,
+      "expected_values_verified": true
+    },
+    {
+      "mu": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "w": 16,
+      "hook_lengths": [
+        7,
+        6,
+        5,
+        4,
+        6,
+        5,
+        4,
+        3,
+        5,
+        4,
+        3,
+        2,
+        4,
+        3,
+        2,
+        1
+      ],
+      "old_bivariate_z_degree_bound": 145,
+      "new_bivariate_z_degree_bound": 70,
+      "old_pure_z_degree": 137,
+      "new_pure_z_degree": 62,
+      "old_fixed_weight_period_bound": 720720,
+      "new_fixed_weight_period_bound": 420,
+      "old_divisible_by_new_exactly": true,
+      "quotient_degree": 75,
+      "expected_values_verified": true
+    },
+    {
+      "mu": [
+        6
+      ],
+      "w": 6,
+      "hook_lengths": [
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "old_bivariate_z_degree_bound": 25,
+      "new_bivariate_z_degree_bound": 22,
+      "old_pure_z_degree": 22,
+      "new_pure_z_degree": 19,
+      "old_fixed_weight_period_bound": 60,
+      "new_fixed_weight_period_bound": 60,
+      "old_divisible_by_new_exactly": true,
+      "quotient_degree": 3,
+      "expected_values_verified": true
+    }
+  ],
+  "comparisons_checked": 4,
+  "limits": [
+    "Denominators, recurrence orders, and periods are upper bounds, not minima.",
+    "Period bounds concern eventual quasipolynomials at fixed output weight.",
+    "Degree reductions are not measured running time or algorithmic complexity.",
+    "The new general bounds depend on the accompanying proof being correct."
+  ],
+  "passed": true
+}

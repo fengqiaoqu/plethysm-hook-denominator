@@ -1,0 +1,20 @@
+{
+  "version": "0.1.0",
+  "date": "2026-10-22",
+  "target": "arXiv:2511.02649v2 Conjecture 4.1, corrected for all partitions of w >= 3",
+  "document_type": "complete_proof_draft",
+  "internal_adversarial_review": "no_substantive_error_found",
+  "external_peer_review": "not_obtained",
+  "formal_proof_verification": "not_performed",
+  "priority": "not_established",
+  "unexcluded_relevant_fulltexts": [
+    "10.1063/1.524897",
+    "10.1063/1.526424"
+  ],
+  "general_plethysm_positive_combinatorial_rule": "not_solved",
+  "geometric_conjecture_1_1": "not_claimed",
+  "minimal_denominator_classification": "not_claimed",
+  "measured_algorithm_speedup": "not_claimed",
+  "ai_assistance": "OpenAI Codex; see NOTICE.md",
+  "repository": "https://github.com/fengqiaoqu/plethysm-hook-denominator"
+}
